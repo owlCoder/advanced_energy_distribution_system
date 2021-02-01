@@ -1,31 +1,31 @@
-## AEDS
 <h1 align="center">
-   The home of AEDS software created to be QOSS
-   <center> <img src="https://raw.githubusercontent.com/owlCoder/advanced_energy_distribution_system/main/white_logo_transparent.png" alt="aeds" width="300" /></center>
+    The home of AEDS software created to be QOSS <br/>
+   <img src="https://raw.githubusercontent.com/owlCoder/advanced_energy_distribution_system/main/white_logo_transparent.png" alt="aeds" width="300" /> <br/>
+  
 </h1>
 <h4 align="center">An advanced GUI based program to manage electric system distribution.</h4>
+
 <p align="center">
-   <a href="https://badge.fury.io/js/electron-markdownify">
+   <a href="https://badge.fury.io/#">
    <img src="https://badge.fury.io/js/electron-markdownify.svg" alt="Gitter">
-   </a>
-   <a href="https://gitter.im/amitmerchant1990/electron-markdownify">
-   <img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-   <a href="https://saythanks.io/to/amitmerchant1990">
+   </a>&emsp;
+   <a href="https://gitter.im/#">
+   <img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a> &emsp;
+   <a href="https://saythanks.io/to/owlCoder">
    <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-   </a>
-   <a href="https://www.paypal.me/AmitMerchant">
+   </a> &emsp;
+   <a href="https://www.paypal.com/paypalme/daliborkaobradovic">
    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
    </a>
-</p>
-<p align="center">
-   • <a href="#key-features">Key Features</a> 
-   • <a href="#how-to-use">How To Use</a> 
-   • <a href="#download">Download</a>
-   • <a href="#credits">Credits</a>
-   • <a href="#related">Related</a>
-   • <a href="#license">License</a>
-</p>
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+</p><br/>
+<h3 align="center">
+   • <a href="#key-features">Key Features</a> &emsp;
+   • <a href="#how-to-use">How To Use</a>  &emsp;
+   • <a href="#download">Download</a>  &emsp;
+   • <a href="#credits">Credits</a>  &emsp;
+   • <a href="#license">License</a> &emsp;
+</h3><br/>
+<center> <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif" alt="screenshot" /> </center>
 ## Key Features
 * LivePreview - Make changes, See changes
 - Instantly see what your Markdown documents look like in HTML as you create them.
