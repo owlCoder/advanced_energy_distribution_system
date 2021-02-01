@@ -1,7 +1,7 @@
+#  The home of AEDS software created to be QOSS
 <h1 align="center">
-    The home of AEDS software created to be QOSS <br/>
-   <img src="https://github.com/owlCoder/advanced_energy_distribution_system/blob/main/doc/logo_web.png?raw=true" alt="aeds" width="300" /> <br/>
-  
+   <img align="center" src="https://github.com/owlCoder/advanced_energy_distribution_system/blob/main/doc/logo_teal.png?raw=true" alt="aeds" width="300" />
+   <br/>
 </h1>
 <h4 align="center">An advanced GUI based program to manage electric system distribution.</h4>
 
@@ -25,23 +25,17 @@
    • <a href="#credits">Credits</a>  &emsp;
    • <a href="#license">License</a> &emsp;
 </h3><br/>
-<center> <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif" alt="screenshot" /> </center>
+<p align="center"> <img src="https://github.com/owlCoder/advanced_energy_distribution_system/blob/main/doc/main_p_b.png?raw=true" alt="screenshot" /> </p>
+
 ## Key Features
 * LivePreview - Make changes, See changes
-- Instantly see what your Markdown documents look like in HTML as you create them.
+- Instantly see your Electrical M.S. status.
 * Sync Scrolling
-- While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
 * Dark/Light mode
-* Toolbar for basic Markdown formatting
 * Supports multiple cursors
-* Save the Markdown preview as PDF
 * Emoji support in preview :tada:
 * App will keep alive in tray for quick usage
 * Full screen mode
-- Write distraction free.
 * Cross platform
 - Windows, macOS and Linux ready.
 ## How To Use
@@ -52,7 +46,7 @@ $ git clone https://github.com/owlCoder/advanced_energy_distribution_system
 # Go into the repository
 $ cd advanced_energy_distribution_system
 # Install dependencies
-$ make aeds_amd64
+$ npm install
 ```
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 ## Download
@@ -66,6 +60,7 @@ This software uses the following open source packages:
 ## License
 MIT
 ---
+## Stay in touch
 > [danijel.rocks](https://www.danijel.rocks) &nbsp;&middot;&nbsp;
 > GitHub [@owlCoder](https://github.com/owlCoder) &nbsp;&middot;&nbsp;
 > Twitter [@danijelj01](https://twitter.com/danijelj01)
