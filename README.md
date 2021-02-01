@@ -29,7 +29,7 @@
 
 ## Key Features
 * LivePreview - Make changes, See changes
-- Instantly see your Electrical M.S. status.
+* Instantly see your Electrical M.S. status.
 * Sync Scrolling
 * Dark/Light mode
 * Supports multiple cursors
@@ -37,7 +37,7 @@
 * App will keep alive in tray for quick usage
 * Full screen mode
 * Cross platform
-- Windows, macOS and Linux ready.
+* Windows, macOS and Linux ready.
 ## How To Use
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 ```bash
@@ -59,6 +59,14 @@ This software uses the following open source packages:
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 ## License
 MIT
+Copyright 2021. Danijel Jovanović
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ---
 ## Stay in touch
 > [danijel.rocks](https://www.danijel.rocks) &nbsp;&middot;&nbsp;
