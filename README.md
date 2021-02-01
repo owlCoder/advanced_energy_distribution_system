@@ -1,6 +1,6 @@
 <h1 align="center">
     The home of AEDS software created to be QOSS <br/>
-   <img src="https://raw.githubusercontent.com/owlCoder/advanced_energy_distribution_system/main/white_logo_transparent.png" alt="aeds" width="300" /> <br/>
+   <img src="https://github.com/owlCoder/advanced_energy_distribution_system/blob/main/doc/logo_web.png?raw=true" alt="aeds" width="300" /> <br/>
   
 </h1>
 <h4 align="center">An advanced GUI based program to manage electric system distribution.</h4>
