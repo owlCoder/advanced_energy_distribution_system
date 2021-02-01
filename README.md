@@ -1,10 +1,9 @@
-#  The home of AEDS software created to be QOSS
+<h1><b align="center"> The home of AEDS software created to be QOSS </b></h1>
 <h1 align="center">
    <img src="https://github.com/owlCoder/advanced_energy_distribution_system/blob/main/doc/main_p_b.png?raw=true" alt="screenshot" /> 
    <br/>
 </h1>
 <h4 align="center">An advanced GUI based program to manage electric system distribution.</h4>
-
 <p align="center">
    <a href="https://badge.fury.io/#">
    <img src="https://badge.fury.io/js/electron-markdownify.svg" alt="Gitter">
